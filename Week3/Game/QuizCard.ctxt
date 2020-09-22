@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=QuizCard
+comment1.params=q\ a
+comment1.target=QuizCard(java.lang.String,\ java.lang.String)
+comment10.params=h
+comment10.target=void\ setHint(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ getHint()
+comment2.params=id
+comment2.target=void\ setUniqueID(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getUniqueID()
+comment4.params=c
+comment4.target=void\ setCategory(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getCategory()
+comment6.params=q
+comment6.target=void\ setQuestion(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getQuestion()
+comment8.params=a
+comment8.target=void\ setAnswer(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getAnswer()
+numComments=12
